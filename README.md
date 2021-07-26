@@ -1,7 +1,7 @@
 ### 🎨 Pinned Projects Links:
 | Project Name  | Host link | Source Code |
 | ------------- | ------------- | ------------- |
-| Face Recognition Brainiac  | `<link>` : <https://face-detection-brainiac.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
+| Face Detection Brainiac  | `<link>` : <https://face-detection-brainiac.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
 | Pokedex  | `<link>` : <https://gurpreet-legend.github.io/Pokedex/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
 | e-market  | `<link>` : <https://e-market-site.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
 | Snake-Game  | `<link>` : <https://gurpreet-legend.github.io/Snake-Game/>  | <a href="https://github.com/gurpreet-legend/Snake-Game" target="_blank">Click here</a> |
