@@ -1,4 +1,4 @@
-### 🎨 Pinned Projects Links:
+### 🎨 Projects Links:
 | Project Name  | Host link | Source Code |
 | ------------- | ------------- | ------------- |
 | Face Detection Brainiac  | `<link>` : <https://face-detection-brainiac.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
