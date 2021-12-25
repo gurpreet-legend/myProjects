@@ -9,6 +9,7 @@
 | Face Detection Brainiac  | `<link>` : <https://face-detection-brainiac.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/Face-Recognition-Brainiac-Frontend" target="_blank">Click here</a> |
 | e-market  | `<link>` : <https://e-market-site.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/e-market" target="_blank">Click here</a> |
 | Tailwind-Webpage  | `<link>` : <https://yumyum-food.netlify.app/>  | <a href="https://github.com/gurpreet-legend/Tailwind-Webpage" target="_blank">Click here</a> |
+| Firebase-eshop-webpage  | `<link>` : <https://eshop-webpage.web.app/>  | <a href="https://github.com/gurpreet-legend/eshop-webpage" target="_blank">Click here</a> |
 | Snake-Game  | `<link>` : <https://gurpreet-legend.github.io/Snake-Game/>  | <a href="https://github.com/gurpreet-legend/Snake-Game" target="_blank">Click here</a> |
 | Lost-Dictionary  |`<link>` : <https://gurpreet-legend.github.io/Lost-Dictionary/>  | <a href="https://github.com/gurpreet-legend/Lost-Dictionary" target="_blank">Click here</a> |
 | Pokedex  | `<link>` : <https://gurpreet-legend.github.io/Pokedex/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
