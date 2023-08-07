@@ -3,13 +3,13 @@
 | ------------- | ------------- | ------------- |
 | Paws-folio  | `<link>` : <https://gurpreets.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Portfolio" target="_blank">Click here</a> |
 | PaperFi  | `<link>` : <https://paperfi.vercel.app/>  | <a href="https://github.com/gurpreet-legend/PaperFi" target="_blank">Click here</a> |
-| Go Webauthn | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/go-webauthn" target="_blank">Click here</a> |
-| Go Bookstore  | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/golang-bookstore" target="_blank">Click here</a> |
-| Go URL Shortener  | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/golang-url-shortener" target="_blank">Click here</a> |
-| DeTrace  | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/DeTrace" target="_blank">Click here</a> |
+| Go Webauthn | `<Not hosted>`  | <a href="https://github.com/gurpreet-legend/go-webauthn" target="_blank">Click here</a> |
+| Go Bookstore  | `<Not hosted>`  | <a href="https://github.com/gurpreet-legend/golang-bookstore" target="_blank">Click here</a> |
+| Go URL Shortener  | `<Not hosted>`  | <a href="https://github.com/gurpreet-legend/golang-url-shortener" target="_blank">Click here</a> |
+| DeTrace  | `<Not hosted>` | <a href="https://github.com/gurpreet-legend/DeTrace" target="_blank">Click here</a> |
 | Expresso  | `<link>` : <https://expresso-blog.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Expresso" target="_blank">Click here</a> |
 | Alan-Feed  | `<link>` : <https://alan-feed.netlify.app/>  | <a href="https://github.com/gurpreet-legend/Alan-Feed" target="_blank">Click here</a> |
-| ThreeJS Demo Design | `<Unhosted>`  | <a href="https://github.com/gurpreet-legend/threejs-demo-design" target="_blank">Click here</a> |
+| ThreeJS Demo Design | `<Not hosted>`  | <a href="https://github.com/gurpreet-legend/threejs-demo-design" target="_blank">Click here</a> |
 | Pixel-Tank | `<link>` : <https://pixel-tank.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Pixel-Tank" target="_blank">Click here</a> |
 | Face Detection Brainiac  | `<link>` : <https://face-detection-brainiac.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/Face-Recognition-Brainiac-Frontend" target="_blank">Click here</a> |
 | e-market  | `<link>` : <https://e-market-site.herokuapp.com/>  | <a href="https://github.com/gurpreet-legend/e-market" target="_blank">Click here</a> |
