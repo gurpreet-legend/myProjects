@@ -2,6 +2,7 @@
 | Project Name  | Host link | Source Code |
 | ------------- | ------------- | ------------- |
 | Paws-folio  | `<link>` : <https://gurpreets.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Portfolio" target="_blank">Click here</a> |
+| PaperFi  | `<link>` : <https://paperfi.vercel.app//>  | <a href="https://github.com/gurpreet-legend/PaperFi" target="_blank">Click here</a> |
 | Expresso  | `<link>` : <https://expresso-blog.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Expresso" target="_blank">Click here</a> |
 | Alan-Feed  | `<link>` : <https://alan-feed.netlify.app/>  | <a href="https://github.com/gurpreet-legend/Alan-Feed" target="_blank">Click here</a> |
 | ThreeJS Demo Design | `<Unhosted>`  | <a href="https://github.com/gurpreet-legend/threejs-demo-design" target="_blank">Click here</a> |
