@@ -3,6 +3,9 @@
 | ------------- | ------------- | ------------- |
 | Paws-folio  | `<link>` : <https://gurpreets.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Portfolio" target="_blank">Click here</a> |
 | PaperFi  | `<link>` : <https://paperfi.vercel.app/>  | <a href="https://github.com/gurpreet-legend/PaperFi" target="_blank">Click here</a> |
+| Go Webauthn | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/go-webauthn" target="_blank">Click here</a> |
+| Go Bookstore  | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/golang-bookstore" target="_blank">Click here</a> |
+| Go URL Shortener  | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/golang-url-shortener" target="_blank">Click here</a> |
 | DeTrace  | `<link>` : Not hosted  | <a href="https://github.com/gurpreet-legend/DeTrace" target="_blank">Click here</a> |
 | Expresso  | `<link>` : <https://expresso-blog.vercel.app/>  | <a href="https://github.com/gurpreet-legend/Expresso" target="_blank">Click here</a> |
 | Alan-Feed  | `<link>` : <https://alan-feed.netlify.app/>  | <a href="https://github.com/gurpreet-legend/Alan-Feed" target="_blank">Click here</a> |
